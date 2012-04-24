@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, QuizzyActivity!</string>
+    <string name="app_name">Quizzy</string>
+    <string name="title">Quizzy</string>
+    <string name="addplayer">Add Player</string>
+
+</resources>
